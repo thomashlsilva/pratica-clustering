@@ -1,0 +1,6 @@
+*.mat
+/average/
+/centroid_ward/
+/complete/
+/single/
+/venv/
